@@ -16,5 +16,5 @@ makeMessage("Jacob");
 	const product = x * y * z;
 }
 
-const result = multiply(2, 3, 5);
-console.log(result);
+// const result = multiply(2, 3, 5);
+// console.log(result);
